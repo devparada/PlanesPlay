@@ -6,7 +6,6 @@ This is a Phaser 3 project template that uses Vite for bundling. It supports hot
 
 ### Progreso
 - [X] Aprendiendo Phaser 3 (Motor de videojuegos Javascript): #1 Primeros pasos con Vite y ESLint: https://www.youtube.com/watch?v=vIz-zkuFxZg&t=3740s
-- [] Siguientes videos...
 
 ### Versions
 

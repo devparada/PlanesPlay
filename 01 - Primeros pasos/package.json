@@ -1,6 +1,6 @@
 {
-    "name": "planes-play",
-    "description": "A Game using Vite and Phaser.",
+    "name": "tuto-phaser-01",
+    "description": "A tutorial Phaser 01.",
     "version": "0.0.1",
     "type": "module",
     "author": "devparada",
